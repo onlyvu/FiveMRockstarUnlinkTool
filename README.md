@@ -32,7 +32,7 @@ Tool hoạt động bằng cách **xóa thư mục `DigitalEntitlements`** trong
 
 ## 🖼️ Giao Diện
 
-![Screenshot](https://via.placeholder.com/600x450/0F0F14/00B4FF?text=FiveM+Rockstar+Unlink+Tool)
+![FiveM Rockstar Unlink Tool](https://sf-static.upanhlaylink.com/img/image_202512226e04910a3897f999276840dd8e1c6def.jpg)
 
 ---
 
@@ -69,7 +69,7 @@ Tải phiên bản mới nhất tại mục **[Releases](../../releases/latest)*
 ### Các Bước
 
 ```bash
-git clone https://github.com/[YOUR-USERNAME]/FiveMRockstarUnlinkTool.git
+git clone https://github.com/onlyvu/FiveMRockstarUnlinkTool.git
 cd FiveMRockstarUnlinkTool
 start FiveMRockstarUnlinkTool.sln
 ```
@@ -105,7 +105,7 @@ Xem file `LICENSE` để biết thêm chi tiết.
 
 ## 👤 Tác Giả
 
-**Mr. Vũ** – [@vuvu](https://github.com/vuvu)
+**Mr. Vũ** – [@vuvu](https://github.com/onlyvu)
 
 ---
 
