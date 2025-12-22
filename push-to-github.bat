@@ -37,7 +37,7 @@ echo 6. Click "Create repository"
 echo.
 echo Sau do, chay cac lenh sau (thay YOUR-USERNAME):
 echo.
-echo git remote add origin https://github.com/YOUR-USERNAME/FiveMRockstarUnlinkTool.git
+echo git remote add origin https://github.com/onlyvu/FiveM-Rockstar-Unlink-Tool.git
 echo git branch -M main
 echo git push -u origin main
 echo.
@@ -62,7 +62,7 @@ if "%username%"=="" (
 
 echo.
 echo [5/6] Adding remote repository...
-git remote add origin https://github.com/%username%/FiveMRockstarUnlinkTool.git
+git remote add origin https://github.com/%username%/FiveM-Rockstar-Unlink-Tool.git
 
 echo [6/6] Pushing to GitHub...
 git branch -M main
@@ -72,7 +72,7 @@ if %errorlevel% equ 0 (
     echo.
     echo ============================================
     echo   THANH CONG! Repository da duoc push len GitHub
-    echo   https://github.com/%username%/FiveMRockstarUnlinkTool
+    echo   https://github.com/%username%/FiveM-Rockstar-Unlink-Tool.git
     echo ============================================
     echo.
     echo Buoc tiep theo: TAO RELEASE
