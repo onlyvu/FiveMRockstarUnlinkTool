@@ -77,7 +77,7 @@ if %errorlevel% equ 0 (
     echo.
     echo Buoc tiep theo: TAO RELEASE
     echo.
-    echo 1. Truy cap: https://github.com/%username%/FiveMRockstarUnlinkTool/releases/new
+    echo 1. Truy cap: https://github.com/%username%/FiveM-Rockstar-Unlink-Tool.git
     echo 2. Tag version: v1.0.0
     echo 3. Release title: FiveM Rockstar Unlink Tool v1.0.0
     echo 4. Description: Phien ban dau tien cua tool
